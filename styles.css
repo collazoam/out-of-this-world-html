@@ -1,0 +1,130 @@
+html{
+	font-family: "Open Sans", Arial, Sans serif;
+	background-color: black;
+}
+
+#layout{
+	background-color: #12002C;
+	margin: 0px;
+	padding: 20px;
+	border-radius: 12px;
+}
+h1{
+	font-size: 3em;
+	text-align: center;
+	color: #C0BAC0; 
+	padding: 15px 0 5px;
+	margin: 0px;
+	background-image: url("galaxy.jpg"); 
+	padding:20px;
+	background-attachment: scroll; 
+	border-radius: 12px; 
+	background-repeat: none; 
+	background-size: cover;
+	border-radius: 12px;
+}
+
+#saturnMoons{
+	columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+
+h2{
+text-align:center;
+color: #666666; 
+	margin:0px;
+	padding: 15px 0 15px;
+	background-color: #A2A1A3;
+	border-radius: 12px;
+}
+
+h3{
+	font-size: 2em;
+	color:#A2A1A3;
+}
+
+p{
+	color: #8B8A8C;
+}
+
+nav{
+	text-align: center;
+}
+nav ul{
+	text-align: center;
+	list-style-type: none;
+	display: inline;
+	padding: 0px;
+}
+
+nav li{
+	float:left;
+}
+
+#firstWord{
+	color: #E7E6EA;
+	text-transform: uppercase;
+	text-shadow: 1px 1px #807580;
+}
+
+hr{
+	margin:15px;
+}
+
+#sectionOne{
+	text-align: center;
+}
+
+#sectionOne ul{
+	text-decoration: none;
+	list-style-type: none;
+	color: #807580;
+	
+}
+
+#sectionOne li{
+	color: #807580;
+}
+
+#sectionTwo{
+	text-align: center;
+}
+
+
+#sectionTwo li{
+color: #C0BAC0;
+list-style-type: none;
+display: inline;
+padding: 20px;
+}
+
+.planets{
+	font-size: 2em;
+	font-weight: bolder;
+	background-image: url("galaxy.jpg"); 
+	padding:20px;
+	background-attachment: scroll; 
+	border-radius: 12px; 
+	background-repeat: none; 
+	background-size: cover;
+	-webkit-text-stroke: 1px black;
+}
+
+h4{
+	text-align: center;
+	font-size: 1em;
+	color:#A2A1A3;
+}
+
+footer{
+	color: #282828; 
+	text-align: center;
+	padding: 15px 0 5px;
+	background-color: rgba(0, 0, 0, 0.32);
+	border-radius: 12px;
+}
+
+
+
+
